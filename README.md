@@ -1,4 +1,4 @@
-# AtliQ Hospitality Analysis - PowerBI
+# AtliQ HR Analysis - PowerBI
 
 
 
