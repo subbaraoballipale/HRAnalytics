@@ -6,7 +6,7 @@ Link to the [Data Set](https://github.com/subbaraoballipale/HRAnalytics/blob/mas
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/hr-analytics-111)
 
-Link to [Presentation Video]()
+Link to [Presentation Video](https://youtu.be/0IGCz9vGgG4)
 
 ## Problem statement
 
